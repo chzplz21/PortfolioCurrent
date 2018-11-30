@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://rothkopfwebworks.com/Portfolio/</loc>
+  <lastmod>2018-04-23T17:34:34+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://rothkopfwebworks.com/Portfolio/index.html</loc>
+  <lastmod>2018-04-23T17:34:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rothkopfwebworks.com/Portfolio/mywork.html</loc>
+  <lastmod>2018-03-12T03:54:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rothkopfwebworks.com/Portfolio/contact.html</loc>
+  <lastmod>2018-03-12T03:54:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rothkopfwebworks.com/TutorSite/</loc>
+  <lastmod>2018-02-12T05:01:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://rothkopfwebworks.com/QuoteMachine/</loc>
+  <lastmod>2018-02-16T02:11:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
